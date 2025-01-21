@@ -1,2 +1,4 @@
 png/video.mp4 filter=lfs diff=lfs merge=lfs -text
 png/about.mp4 filter=lfs diff=lfs merge=lfs -text
+about.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
