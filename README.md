@@ -31,6 +31,8 @@ I have developed a **highly interactive and dynamic frontend website** utilizing
 
 8. **Intuitive User Experience (UX):**  
    I’ve prioritized an intuitive UX design with a user-friendly interface. The layout is clean, well-organized, and easy to navigate, allowing users to find what they need quickly and efficiently.
+![image](https://github.com/user-attachments/assets/f8fc136c-afac-4e2b-8904-91c759b9bf97)   ![image](https://github.com/user-attachments/assets/9a5bda67-8a12-4284-9e72-8249939cea94)
+
 
 9. **Customizable Features:**  
    The site is built with scalability in mind, offering easy customization for future enhancements. Whether you need additional pages, widgets, or features, the website is flexible and adaptable for ongoing growth.
